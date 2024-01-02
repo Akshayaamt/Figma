@@ -269,7 +269,8 @@ color: black;
  word-wrap: break-word
 ```
 ## OUTPUT:
-![Alt text][Screenshot 2024-01-02 184905](https://github.com/Akshayaamt/Figma/assets/144870472/5a9730db-18db-40dd-80f7-c9f6aea8cdc0)
+![Screenshot 2024-01-02 184905](https://github.com/Akshayaamt/Figma/assets/144870472/9de8e03a-1d21-4387-a260-79e9256c25a1)
+
 
 
 ## RESULT:
