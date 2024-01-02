@@ -269,7 +269,8 @@ color: black;
  word-wrap: break-word
 ```
 ## OUTPUT:
-![Alt text](<Screenshot 2024-01-02 152617.png>)
+![Alt text][Screenshot 2024-01-02 184905](https://github.com/Akshayaamt/Figma/assets/144870472/5a9730db-18db-40dd-80f7-c9f6aea8cdc0)
+
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
